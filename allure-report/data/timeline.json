@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MASYAN",
+    "children" : [ {
+      "name" : "10772-MainThread",
+      "children" : [ {
+        "name" : "test_mango",
+        "uid" : "e09a5be3046709c3",
+        "parentUid" : "0e94c3b6374a426aa9c06d02348428c8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1514585786000,
+          "stop" : 1514585807308,
+          "duration" : 21308
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0e94c3b6374a426aa9c06d02348428c8"
+    } ],
+    "uid" : "229beb29d5ac6543f0ca1a2465aee323"
+  } ]
+}

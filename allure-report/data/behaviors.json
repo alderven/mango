@@ -1,0 +1,25 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Интернет-магазин",
+    "children" : [ {
+      "name" : "Выбор номера",
+      "children" : [ {
+        "name" : "test_mango",
+        "uid" : "e09a5be3046709c3",
+        "parentUid" : "a3393e4a2082aa789ab1872d09498fba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1514585786000,
+          "stop" : 1514585807308,
+          "duration" : 21308
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a3393e4a2082aa789ab1872d09498fba"
+    } ],
+    "uid" : "17ec372c40b1dbd0993ce404ca423da6"
+  } ]
+}

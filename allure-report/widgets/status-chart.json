@@ -1,0 +1,11 @@
+[ {
+  "uid" : "e09a5be3046709c3",
+  "name" : "test_mango",
+  "time" : {
+    "start" : 1514585786000,
+    "stop" : 1514585807308,
+    "duration" : 21308
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]
