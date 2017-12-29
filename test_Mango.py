@@ -1,6 +1,6 @@
 import pytest
 from random import randint
-import page_numbers
+from page import PageNumbers
 
 
 @pytest.allure.feature('Интернет-магазин')
@@ -9,7 +9,7 @@ import page_numbers
 def test_mango(driver):
 
     with pytest.allure.step('1. Переходим на страницу выбора номера нашего интернет-магазина'):
-        page = page_numbers.PageNumbers(driver)
+        page = PageNumbers(driver)
         title = 'Покупка многоканальных номеров Многоканальные номера'
         err_msg = 'Актуальный заголовок страницы: "{}". Ожидаемый заголовок страницы: "{}"'.format(page.driver.title, title)
         assert page.driver.title == title, err_msg
