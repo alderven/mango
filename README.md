@@ -2,14 +2,14 @@
 Проект содержит [автотест](https://github.com/alderven/mango/blob/master/test_Mango.py) и [Allure отчет](https://rawgit.com/alderven/mango/master/allure-report/index.html) о его прогоне.
 
 # Шаги тест кейса
-Шаги тест кейса можно найти [здесь](https://rawgit.com/alderven/mango/master/allure-report/index.html#behaviors/a3393e4a2082aa789ab1872d09498fba/e09a5be3046709c3/) или в таблице ниже:
+Шаги тест кейса можно найти [здесь](https://rawgit.com/alderven/mango/master/allure-report/index.html#suites/98d3104e051c652961429bf95fa0b5d6/f553573b0761ee45/) или в таблице ниже:
 
 №  | Шаг | Результат прогона
 -- | ------------------- | ---------------------- 
-1  | Переходим на страницу выбора номера нашего интернет-магазина | [Прошло](https://rawgit.com/alderven/mango/master/allure-report/index.html#behaviors/a3393e4a2082aa789ab1872d09498fba/e09a5be3046709c3/)
-2  | Добавляем больше 1-го номера с помощью кнопки "Выбрать случайный" | [Прошло](https://rawgit.com/alderven/mango/master/allure-report/index.html#behaviors/a3393e4a2082aa789ab1872d09498fba/e09a5be3046709c3/)
-3  | Проверяем, что номера отображаются в боковой корзине – блок "Текущий заказ" | [Прошло](https://rawgit.com/alderven/mango/master/allure-report/index.html#behaviors/a3393e4a2082aa789ab1872d09498fba/e09a5be3046709c3/)
-4  | Проверяем, что Разовый платеж (Подключение), Ежемесячно (Абонентская плата) в блоке "Текущий заказ" соответствуют сумме стоимостей номеров | [Прошло](https://rawgit.com/alderven/mango/master/allure-report/index.html#behaviors/a3393e4a2082aa789ab1872d09498fba/e09a5be3046709c3/)
+1  | Переходим на страницу выбора номера нашего интернет-магазина | [Прошло](https://rawgit.com/alderven/mango/master/allure-report/index.html#suites/98d3104e051c652961429bf95fa0b5d6/f553573b0761ee45/)
+2  | Добавляем больше 1-го номера с помощью кнопки "Выбрать случайный" | [Прошло](https://rawgit.com/alderven/mango/master/allure-report/index.html#suites/98d3104e051c652961429bf95fa0b5d6/f553573b0761ee45/)
+3  | Проверяем, что номера отображаются в боковой корзине – блок "Текущий заказ" | [Прошло](https://rawgit.com/alderven/mango/master/allure-report/index.html#suites/98d3104e051c652961429bf95fa0b5d6/f553573b0761ee45/)
+4  | Проверяем, что Разовый платеж (Подключение), Ежемесячно (Абонентская плата) в блоке "Текущий заказ" соответствуют сумме стоимостей номеров | [Прошло](https://rawgit.com/alderven/mango/master/allure-report/index.html#suites/98d3104e051c652961429bf95fa0b5d6/f553573b0761ee45/)
 
 # Инсталляция
 1. Скачать и распаковать архив с проектом: https://github.com/alderven/mango/archive/master.zip
