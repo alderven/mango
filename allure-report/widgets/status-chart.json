@@ -1,10 +1,10 @@
 [ {
-  "uid" : "e09a5be3046709c3",
+  "uid" : "f553573b0761ee45",
   "name" : "test_mango",
   "time" : {
-    "start" : 1514585786000,
-    "stop" : 1514585807308,
-    "duration" : 21308
+    "start" : 1514589435522,
+    "stop" : 1514589455799,
+    "duration" : 20277
   },
   "status" : "passed",
   "severity" : "blocker"

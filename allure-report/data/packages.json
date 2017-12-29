@@ -5,13 +5,13 @@
     "name" : "test_Mango",
     "children" : [ {
       "name" : "test_mango",
-      "uid" : "e09a5be3046709c3",
+      "uid" : "f553573b0761ee45",
       "parentUid" : "9ede47d3845bbeeefc4361c5aff73a69",
       "status" : "passed",
       "time" : {
-        "start" : 1514585786000,
-        "stop" : 1514585807308,
-        "duration" : 21308
+        "start" : 1514589435522,
+        "stop" : 1514589455799,
+        "duration" : 20277
       },
       "flaky" : false,
       "parameters" : [ ]

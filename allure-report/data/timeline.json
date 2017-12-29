@@ -4,21 +4,21 @@
   "children" : [ {
     "name" : "MASYAN",
     "children" : [ {
-      "name" : "10772-MainThread",
+      "name" : "5476-MainThread",
       "children" : [ {
         "name" : "test_mango",
-        "uid" : "e09a5be3046709c3",
-        "parentUid" : "0e94c3b6374a426aa9c06d02348428c8",
+        "uid" : "f553573b0761ee45",
+        "parentUid" : "b4353b5c05f4076a4ef20ac0568ee781",
         "status" : "passed",
         "time" : {
-          "start" : 1514585786000,
-          "stop" : 1514585807308,
-          "duration" : 21308
+          "start" : 1514589435522,
+          "stop" : 1514589455799,
+          "duration" : 20277
         },
         "flaky" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "0e94c3b6374a426aa9c06d02348428c8"
+      "uid" : "b4353b5c05f4076a4ef20ac0568ee781"
     } ],
     "uid" : "229beb29d5ac6543f0ca1a2465aee323"
   } ]

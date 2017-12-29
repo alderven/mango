@@ -7,13 +7,13 @@
       "name" : "Выбор номера",
       "children" : [ {
         "name" : "test_mango",
-        "uid" : "e09a5be3046709c3",
+        "uid" : "f553573b0761ee45",
         "parentUid" : "a3393e4a2082aa789ab1872d09498fba",
         "status" : "passed",
         "time" : {
-          "start" : 1514585786000,
-          "stop" : 1514585807308,
-          "duration" : 21308
+          "start" : 1514589435522,
+          "stop" : 1514589455799,
+          "duration" : 20277
         },
         "flaky" : false,
         "parameters" : [ ]
